@@ -13,5 +13,14 @@ cd FB-X
 python fbX.py
 ```
 
+# Update Info
+```
+V1
+-Add Tool
+
+V2
+-Fix Bug
+```
+
 # My FB Account
 [Facebook](https://facebook.com/ExtremeBoy.GameGuardian)
