@@ -1,5 +1,5 @@
 # FB-X Tool
-[ss](https://github.com/ExtremeBoyGG/FB-X/blob/master/model.jpg)
+![ss](https://github.com/ExtremeBoyGG/FB-X/blob/master/model.jpg)
 
 This Script Was Install The Facebook Hack Script
 
