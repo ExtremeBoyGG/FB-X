@@ -20,6 +20,10 @@ V1
 
 V2
 -Fix Bug
+
+V2.2
+-Fix Error
+-New Method Install
 ```
 
 # My FB Account
